@@ -417,6 +417,7 @@ ul {
 
 .footer {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-cont {
@@ -425,7 +426,6 @@ ul {
 
 .logo-p {
   display: flex;
-  align-items: baseline;
 }
 
 .text-social {
