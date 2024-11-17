@@ -416,17 +416,16 @@ ul {
 }
 
 .footer {
-  align-items: baseline;
   display: flex;
 }
 
 .footer-cont {
   margin-right: 120px;
-  align-items: baseline;
 }
 
 .logo-p {
   display: flex;
+  align-items: baseline;
 }
 
 .text-social {
